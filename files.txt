@@ -1,0 +1,10 @@
+.agents/skills/chef-projet/SKILL.md
+.agents/skills/coach-finance/SKILL.md
+.agents/skills/correcteur-contenu/SKILL.md
+.agents/skills/critique-idee/SKILL.md
+.agents/skills/debateur/SKILL.md
+.agents/skills/formateur-particulier/SKILL.md
+.agents/skills/formateur-texte/SKILL.md
+.agents/skills/machine-emails/SKILL.md
+.agents/skills/reverse-prompt/SKILL.md
+.agents/skills/traducteur-litteraire/SKILL.md
