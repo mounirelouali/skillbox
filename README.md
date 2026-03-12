@@ -41,4 +41,21 @@ This library contains 17 specialized skills organized by theme:
 
 ## Installation
 
-Clone this repository or copy the `.agents/skills` folder into your project's root directory.
+### Via `npx skills` (Recommandé)
+
+Tu peux installer n'importe quel skill de cette bibliothèque sans cloner le repo, en utilisant l'outil de Vercel :
+
+- **Installation globale** (disponible dans tous tes projets) :
+  ```bash
+  npx skills add mounirelouali/skillbox --skill skill-hunter -g
+  ```
+
+- **Installation locale** (seulement pour le projet en cours) :
+  ```bash
+  npx skills add mounirelouali/skillbox --skill skill-hunter
+  ```
+
+*Tu peux remplacer `skill-hunter` par n'importe quel autre nom de skill de la liste ci-dessus.*
+
+### Manuelle
+Copie le dossier `.agents/skills` dans la racine de ton projet.
