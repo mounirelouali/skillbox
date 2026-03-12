@@ -15,15 +15,19 @@ This library contains 17 specialized skills organized by theme:
 - `formateur-texte`: Formattage Markdown professionnel.
 - `machine-emails`: Rédaction d'e-mails à haute conversion.
 - `traducteur`: Traduction en anglais littéraire.
+- `copywriting-master`: Rédaction persuasive et frameworks marketing.
+- `recruiter-pro`: Recrutement et évaluation de candidats.
 
 ### 🎓 Training & Growth
 - `formateur-particulier`: Formation sur mesure pas à pas.
 - `coach-finance`: Stratégie financière.
 - `critique-idee`: Analyse et notation d'idées.
+- `productivity-coach`: Organisation et systèmes d'efficacité.
 
 ### 📣 Debate & Management
 - `debateur`: Débat argumenté et synthèse.
 - `chef-projet`: Planification d'objectifs.
+- `business-strategist`: Analyse de marché et planification stratégique.
 
 ### 🔍 SEO Specializations
 - `seo-titre`: Optimisation de titres.
@@ -32,6 +36,7 @@ This library contains 17 specialized skills organized by theme:
 - `seo-cluster`: Clusters de contenu.
 - `seo-eat`: Stratégie d'autorité.
 - `seo-faq`: FAQ optimisée.
+- `seo-expert`: Optimisation globale pour les moteurs de recherche.
 
 ## Installation
 
