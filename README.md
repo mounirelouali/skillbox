@@ -7,6 +7,7 @@ A professional library of Claude skills based on Ludovic Salenne's prompts.
 This library contains 17 specialized skills organized by theme:
 
 ### 🚀 Metas & Experts
+- `skill-hunter`: Recherche et installation automatique via `npx skills` / `skills.sh`.
 - `promptor`: Expert en ingénierie de prompts.
 - `reverse-prompt`: Reverse Prompt Engineering.
 
