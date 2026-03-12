@@ -1,13 +1,11 @@
-# skillbox
+# SKILLY 🧠
 
-A professional library of Claude skills based on Ludovic Salenne's prompts.
+Une bibliothèque de skills pour Claude et autres agents, basée sur les prompts de Ludovic Salenne et optimisée pour la recherche sémantique.
 
-## Available Skills
-
-This library contains 17 specialized skills organized by theme:
+Cette bibliothèque contient 18 skills spécialisés (et plus à venir) :
 
 ### 🚀 Metas & Experts
-- `skill-hunter`: Recherche et installation automatique via `npx skills` / `skills.sh`.
+- `skilly`: Le cerveau moteur de recherche de skills (interne skilly + externe npx/web).
 - `promptor`: Expert en ingénierie de prompts.
 - `reverse-prompt`: Reverse Prompt Engineering.
 
@@ -43,17 +41,15 @@ This library contains 17 specialized skills organized by theme:
 
 ### Via `npx skills` (Recommandé)
 
-Tu peux installer n'importe quel skill de cette bibliothèque sans cloner le repo, en utilisant l'outil de Vercel :
+Tu peux installer n'importe quel skill de cette bibliothèque sans cloner le repo, en utilisant l'outil de Vercel. 
 
-- **Installation globale** (disponible dans tous tes projets) :
-  ```bash
-  npx skills add mounirelouali/skillbox --skill skill-hunter -g
-  ```
+**Pour avoir accès à Skilly (le moteur de recherche) partout sur ta machine :**
 
-- **Installation locale** (seulement pour le projet en cours) :
-  ```bash
-  npx skills add mounirelouali/skillbox --skill skill-hunter
-  ```
+```bash
+npx skills add mounirelouali/skilly --skill skilly -global
+```
+
+Une fois installé, tu n'as qu'à demander à ton agent (Windsurf, Antigravity, etc.) : "/skilly Trouve-moi un skill pour..."
 
 *Tu peux remplacer `skill-hunter` par n'importe quel autre nom de skill de la liste ci-dessus.*
 
